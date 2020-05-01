@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+A new Flutter application. In this i used google sign in authentication.I connected this application with firebase for data storage and an individual can perform CRUD operation.I mainly used an Search algorithm to search and retrieve elements from firebase database.
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
